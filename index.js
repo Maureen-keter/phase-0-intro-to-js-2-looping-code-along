@@ -18,6 +18,6 @@ function countDown(number) {
     }
   }
   
-  console.log(countDown);
+  countDown;
   
   
